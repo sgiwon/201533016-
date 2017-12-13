@@ -1,0 +1,17 @@
+@charset "euc-kr";
+
+*{margin:0;padding:0;font-family:"Malgan Gothic","¸¼Àº °íµñ"}
+table{margin:20px 0;border:1px solid #eee;border-collapse:collapse;width:600px}
+table td{padding:5px 10px;border:1px solid #eee}
+table td input{width:98%;line-height:16px;padding:5px 0;font-size:13px;}
+table td textarea{width:98%;height:200px}
+table th{background:#FFBB00;border:1px solid #ccc}
+
+input[type="button"]{padding:5px 10px;}
+input[type="reset"]{padding:5px 10px;}
+
+.pagging a{display:inline-block;padding:0 5px;line-height:22px;border:1px solid #eee;text-align:center;margin:3px }
+.pagging span{display:inline-block;padding:0 5px;line-height:22px;border:1px solid #eee;text-align:center;margin:3px}
+.pagging a:hover{background:#FFBB00}
+div { margin : auto; }
+.btn_write{display:inline-block;background:#FFBB00;font-size:13px;padding:10px 30px;border-radius:5px;border:1px solid #aaa}
